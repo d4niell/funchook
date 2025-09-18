@@ -1,0 +1,3 @@
+/Users/danielsirkia/project/funchook/_deps/capstone-subbuild/CMakeFiles/capstone-populate.dir
+/Users/danielsirkia/project/funchook/_deps/capstone-subbuild/CMakeFiles/edit_cache.dir
+/Users/danielsirkia/project/funchook/_deps/capstone-subbuild/CMakeFiles/rebuild_cache.dir

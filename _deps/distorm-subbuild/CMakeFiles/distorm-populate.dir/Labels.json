@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/CMakeFiles/distorm-populate"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/CMakeFiles/distorm-populate.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/CMakeFiles/distorm-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-build.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-download.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-install.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-test.rule"
+		},
+		{
+			"file" : "/Users/danielsirkia/project/funchook/_deps/distorm-subbuild/distorm-populate-prefix/src/distorm-populate-stamp/distorm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"distorm-populate"
+		],
+		"name" : "distorm-populate"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/danielsirkia/project/funchook/cmake_install.cmake",
+		"/Users/danielsirkia/project/funchook/funchook/cmake_install.cmake",
+		"/Users/danielsirkia/project/funchook/funchook/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

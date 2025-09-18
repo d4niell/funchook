@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -arch x86_64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/main.c.o -o main  -Wl,-rpath,@executable_path/../funchook/build -lfunchook /Users/danielsirkia/project/libmach_inject.a -framework OpenGL -framework GLUT -framework CoreFoundation -framework ApplicationServices -framework Cocoa

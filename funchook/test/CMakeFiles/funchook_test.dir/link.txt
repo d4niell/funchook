@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch x86_64 -dynamiclib -Wl,-headerpad_max_install_names -o libfunchook_test.so -install_name @rpath/libfunchook_test.so CMakeFiles/funchook_test.dir/libfunchook_test.c.o CMakeFiles/funchook_test.dir/libfunchook_test_cpp.cpp.o CMakeFiles/funchook_test.dir/libfunchook_test_aarch64_gas.S.o
